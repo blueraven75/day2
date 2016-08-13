@@ -1,28 +1,23 @@
-.col-md-12{
-  height: 100px;
-  background-color:purple;
-  color:#fff ;
-}
-.col-md-6{
+.row{
+  height: 102px;
   border: 2px solid #000;
-  height: 100px;
   background-color: blue;
 }
-.col-md-3{
+.col-md-6{
+  height: 50px;
   border: 2px solid #000;
-  height: 100px;
-  background-color: green;
-}
-.col-md-4{
-  border: 1px solid #777;
-  height: 50px;
-  background-color: yellow;
-}
-.container-fluid{
-  height: 50px;
-  background-color: pink;
-}
-.container{
-  height: 50px;
   background-color: red;
+}
+.col-md-1{
+  border: 1px solid #000;
+  background-color: yellow;
+  width: auto;
+}
+.col-md-3{
+  height: 50px;
+  border-top:0px solid;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-bottom: 2px solid;
+  background-color: grey;
 }

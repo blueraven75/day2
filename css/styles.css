@@ -46,12 +46,25 @@ position: absolute;ut
   background-color: lightblue;
   width: auto;
 }
+
 .footer{
   height: 50px;
   width: auto;
   background-color: black;
 }
+
 .yellow{
   background-color: yellow;
 }
+@media screen & (max-width: 768px){
+  .container{
+    background-color: black;
+  }
+}
+@@media screen & (min-width:375px;) {
+  .content{
+    background-color: pink;
+  }
+}
+
 >>>>>>> local

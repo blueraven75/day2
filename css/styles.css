@@ -1,6 +1,11 @@
-
 a:hover{
   text-decoration: none;
+}
+
+.row{
+  height: 102px;
+  border: 2px solid #000;
+  background-color: blue;
 }
 
 .col-md-6{
